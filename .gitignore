@@ -1,0 +1,10 @@
+
+# local env
+.env
+.venv/
+Taviliy_HTML_PDF 3/.env
+Taviliy_HTML_PDF 3/.venv/
+
+# downloaded review docs (exclude from repo)
+Taviliy_HTML_PDF 3/review_ready_documents_combined_1_1000/
+Taviliy_HTML_PDF 3/**/stage2_downloads/

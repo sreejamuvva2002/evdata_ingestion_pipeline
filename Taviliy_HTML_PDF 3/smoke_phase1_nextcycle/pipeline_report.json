@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-17T00:12:04",
+  "output_dir": "C:\\Users\\Yes\\Downloads\\Taviliy_HTML_PDF (1)\\Taviliy_HTML_PDF\\smoke_phase1_nextcycle",
+  "stage1_all_candidates": 60,
+  "stage1_dedup_candidates": 42,
+  "stage2_scored_pool_count": 42,
+  "stage2_selected_by_metadata_count": 5,
+  "stage2_document_pool_count": 42,
+  "stage3_lightweight_card_count": 5,
+  "stage6_enriched_card_count": 3,
+  "stage7_shortlist_count": 3,
+  "stage7_llm_judged_count": 0,
+  "stage8_credible_count": 0,
+  "final_keep_count": 0,
+  "final_review_count": 3,
+  "final_discard_count": 2,
+  "thresholds": {
+    "metadata_threshold": 20.0,
+    "heuristic_threshold": 45.0,
+    "embedding_threshold": 65.0,
+    "hybrid_threshold": 65.0,
+    "direct_usecase_threshold": 0.7,
+    "credibility_threshold": 60.0,
+    "metadata_target_ratio": 1.0,
+    "final_target_ratio": 0.0,
+    "diversity_max_share": 0.5,
+    "llm_provider": "none",
+    "llm_model": "llama3.1:8b"
+  },
+  "grounding_files": {
+    "xlsx": "C:\\Users\\Yes\\Downloads\\Taviliy_HTML_PDF (1)\\Taviliy_HTML_PDF\\GA_Automotive Landscape_All_Companies.xlsx",
+    "geojson": "Counties_Georgia.geojson",
+    "docx": "GNEM Supply Chain.docx"
+  }
+}

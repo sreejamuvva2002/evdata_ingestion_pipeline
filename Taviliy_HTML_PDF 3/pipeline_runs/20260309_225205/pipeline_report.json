@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-03-09T22:55:28",
+  "output_dir": "L:\\SREEJARAGPROJECT\\Taviliy_HTML_PDF\\Taviliy_HTML_PDF\\pipeline_runs\\20260309_225205",
+  "stage1_all_candidates": 60,
+  "stage1_dedup_candidates": 42,
+  "stage2_scored_pool_count": 42,
+  "stage2_selected_by_metadata_pdf": 2,
+  "stage2_acquired_pdf_count": 2,
+  "stage3_scored_pdf_count": 2,
+  "stage3_final_selected_pdf_count": 1,
+  "thresholds": {
+    "metadata_threshold": 20.0,
+    "first_page_threshold": 35.0,
+    "final_threshold": 40.0,
+    "metadata_target_ratio": 0.0,
+    "final_target_ratio": 0.0,
+    "llm_provider": "ollama",
+    "llm_model": "tinyllama:latest",
+    "llm_first_page_weight": 0.75
+  }
+}

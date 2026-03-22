@@ -1,0 +1,71 @@
+{
+  "company_count": 172,
+  "county_count": 67,
+  "oem_count": 11,
+  "port_count": 7,
+  "facility_type_count": 3,
+  "supply_chain_role_count": 8,
+  "product_term_count": 168,
+  "value_chain_term_count": 191,
+  "company_examples": [
+    "ACM Georgia LLC",
+    "ADVICS Manufacturing Georgia LLC",
+    "ALBAform Inc.",
+    "AVS",
+    "Adient",
+    "Anovion Technologies",
+    "Apache Mills Inc.",
+    "Arising Industries Inc.",
+    "Ascend Elements",
+    "Aspen Aerogels*",
+    "Aurubis*",
+    "Beaver Manufacturing Co. Inc.",
+    "Big Tex Trailer Manufacturing Inc.",
+    "Blue Bird Corp.",
+    "Blue Ridge Manufacturing"
+  ],
+  "county_examples": [
+    "Appling County",
+    "Bartow County",
+    "Bibb County",
+    "Bryan County",
+    "Bulloch County",
+    "Candler County",
+    "Carroll County",
+    "Catoosa County",
+    "Chatham County",
+    "Cherokee County",
+    "Clarke County",
+    "Clayton County",
+    "Cobb County",
+    "Coffee County",
+    "Columbia County"
+  ],
+  "oem_examples": [
+    "Blue Bird",
+    "Blue Bird Corp.",
+    "Hyundai Kia",
+    "Hyundai Kia Rivian",
+    "Hyundai Motor Group",
+    "Kia Georgia Inc.",
+    "Mercedes-Benz USA LLC",
+    "Rivian Automotive",
+    "SK Battery America",
+    "Textron Specialized Vehicles"
+  ],
+  "port_examples": [
+    "Port of Savannah",
+    "Savannah port",
+    "Garden City Terminal",
+    "Port of Brunswick",
+    "Brunswick port",
+    "Colonel's Island Terminal",
+    "Colonels Island Terminal"
+  ],
+  "facet_labels": [
+    "who makes what where at what scale",
+    "supplier and tier relationships",
+    "logistics and infrastructure risk",
+    "policy, incentives, and localization"
+  ]
+}
