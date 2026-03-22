@@ -1,0 +1,284 @@
+Title: Tracking the EV battery factory construction boom across North America
+
+URL Source: http://techcrunch.com/2025/02/06/tracking-the-ev-battery-factory-construction-boom-across-north-america/
+
+Published Time: 2025-02-06T20:29:14+00:00
+
+Markdown Content:
+The onshoring of battery manufacturing for EVs [started as a trickle](https://techcrunch.com/2021/07/23/automakers-have-battery-anxiety-so-theyre-taking-control-of-the-supply/) during the COVID-19 pandemic. Then it turned into a tsunami.
+
+In 2019, just two battery factories were operating in the United States with another two under construction. Today there are about 34 battery factories either planned, under construction, or operational in the country.
+
+Former U.S. President Joe Biden’s[Inflation Reduction Act](https://techcrunch.com/2022/09/02/a-complete-guide-to-the-new-ev-tax-credit/) (IRA), signed into law August 16, 2022, might not have been the initial catalyst behind the onshoring battery factory trend. But it did help open the spigot and accelerate the pace of factory projects — not to mention[sparking a climate tech arms race with the EU](https://techcrunch.com/2023/08/16/inflation-reduction-act-anniversary-2023/).
+
+Two and a half years later, we’re still tracking the fallout, even though the IRA’s fate is now uncertain.
+
+In January 2025, President Donald Trump [ordered a freeze on IRA funding](https://www.manufacturingdive.com/news/president-trump-inflation-reduction-act-executive-order-ev-mandate/737914/) disbursements, but [many of those funds](https://techcrunch.com/2024/12/13/biden-administration-races-to-approve-clean-energy-loans-before-trump-takes-over-heres-whos-benefitting/)have already made it into manufacturers’ hands. That order also hasn’t stopped the already-moving train of billions of private sector dollars invested in clean energy.
+
+Because whether Trump wants to back clean energy or not, the fact remains that the U.S. needs to have more control over its battery supply chain, rather than ceding control to China. That’s particularly true in light of Trump’s 10% tariffs on Chinese imports. Automakers saw what happened during the chip shortage crisis that hampered manufacturing during the COVID-19 pandemic, and they are loathe to repeat the same mistakes.
+
+What has followed is a wave of automakers and battery makers — foreign and domestic — pledging to produce North American–made batteries before 2030. (See each automaker’s plans [here](http://techcrunch.com/2025/02/06/tracking-the-ev-battery-factory-construction-boom-across-north-america/#automakers-investing) and battery maker’s plans [here](http://techcrunch.com/2025/02/06/tracking-the-ev-battery-factory-construction-boom-across-north-america/#battery-manufacturers).)
+
+Techcrunch event
+
+San Francisco, CA|October 13-15, 2026
+
+## IRA carrots and sticks
+
+Why so much investment into onshoring EV battery production? One reason was because the IRA is rife with incentives for automakers and consumers to produce domestically — a concerted effort to end the U.S.’s reliance on China for batteries, while simultaneously meeting Biden’s goal to make 50% of all new vehicle sales in the U.S. electric or hybrid by 2030. And though Trump has taken a step back from the IRA, electric vehicles can still qualify for the full $7,500 EV tax credit if they meet certain battery sourcing and production guidelines.
+
+[The IRA requires](https://home.treasury.gov/news/press-releases/jy1379) that 60% of the value of battery components be produced or assembled in North America in 2024 to qualify for half of the tax credit, $3,750. That percentage will increase to 100% starting in 2029. To get the remaining half, 50% of the value of critical materials must be sourced from the U.S. or a free trade agreement country in 2024. That percentage increases to 60%, 70% and 80% for vehicles produced in 2025, 2026 and 2027 and beyond, respectively.
+
+The IRA’s advanced manufacturing credits that give the producer a payout from the Treasury are likely at risk of being eliminated, but it’s worth explaining how they went for the past couple of years. [Under Section 45X](https://www.energy.gov/eere/solar/federal-tax-credits-solar-manufacturers), the production of battery cells qualifies for a credit of $35 per kilowatt-hour of capacity, and the production of battery modules qualifies for $10 per kilowatt-hour. (Battery cells are containers that chemically store energy, and they are arranged into modules. Battery packs can be made up of cells or modules.)
+
+Companies can also be reimbursed 10% of the costs incurred due to the production of electrode active materials, like the cathode and anode. The cathode stores lithium when a battery is discharged, and the anode stores lithium when a battery is charging. They are both components of a cell and can contain materials like graphite, silicon, zinc, aluminum, magnesium, nickel and cobalt.
+
+Automakers and battery manufacturers have collectively invested and promised to invest around $112 billion in building domestic cell and module manufacturing.Together, these companies promise to deliver an annual capacity of close to 1,200 gigawatt-hours before 2030, if each factory reaches maximum capacity. That’s roughly enough batteries for 18 million EVs, based on previous Tesla predictions that say about 100 GWh capacity can power around 1.5 million EVs.
+
+Outside of the battery sector, the IRA has helped fuel a total $245 billion in private investment into clean energy and technology manufacturing, according to Atlas Public Policy’s [Clean Economy Tracker](https://cleaneconomytracker.org/).
+
+The investment into producing batteries in the U.S. and Canada changes regularly, so we’ve started tracking these promises.
+
+## Automakers investing in domestic battery production
+
+TechCrunch created a handy map showing the location of each battery factory plus some basic information, including planned capacity. For those looking for more details and context, scroll down to read about each manufacturer’s planned or operational battery factories. Or click on a location on the map for a pop-up to appear.
+
+**Note:**The factories included below are producing or will produce battery cells and modules. We did not include things like battery materials production. Therefore, it is not an exhaustive list of all the production going into creating EV batteries in North America.
+
+**Where are the EV batteries being produced in North America?**
+
+A map tracking automaker and battery maker investment into battery cell and module production for electric vehicles. 
+
+Hover over the green dots for a pop-up with more information about each factory.
+
+_This article was originally published August 16, 2023, and was last updated February 6, 2025._
+
+### BMW
+
+In October 2022,[BMW announced a $1.7 billion](https://techcrunch.com/2022/10/19/bmw-to-invest-1-7b-to-build-evs-in-south-carolina/) investment in the U.S. that would see its Spartanburg, South Carolina, plant readied for the production of EVs. Of the total funding, $700 million was allocated to the buildout of a battery assembly facility in nearby Woodruff. The automaker told TechCrunch that the start of production is scheduled for the end of 2026, but it hasn’t confirmed which EVs will be produced there. BMW’s Spartanburg factory is currently where its sports utility and crossovers are built, including the X3, X4, X5, X6, X7 and XM.
+
+BMW also partnered up with battery maker AESC (formerly Envision AESC) to invest additional funds in a battery cell plant in Florence, South Carolina (more on that in the AESC section). The AESC plant will produce BMW’s new sixth-generation round lithium-ion battery cells for Plant Spartanburg EVs. Groundbreaking on both the Woodruff and Florence facilities occurred in June 2024.
+
+![Image 1](https://techcrunch.com/wp-content/uploads/2024/07/BMW-e1721420766771.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Daimler, Paccar, Accelera, EVE Energy
+
+In September 2023, Daimler Truck and Paccar announced a joint venture with energy technology company Accelera and Chinese battery maker EVE Energy to build a battery cell production plant that would support the adoption of EVs for medium- and heavy-duty commercial transportation. The companies said in January 2024 that they selected a site in Mississippi.
+
+Accelera, Daimler and Paccar will each own 30% of the combined company, called [Amplify Cell Technologies](https://www.paccar.com/news/current-news/2024/amplify-cell-technologies-begins-construction-of-mississippi-battery-cell-factory/), and jointly control the business, which will focus on lithium-iron-phosphate (LFP) battery tech. EVE will serve as a technology provider, contributing its battery cell design and manufacturing expertise in exchange for 10% of ownership.
+
+![Image 2](https://techcrunch.com/wp-content/uploads/2024/07/daimler-e1721421095926.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Ford
+
+In September 2021, [Ford created a joint venture](https://media.ford.com/content/fordmedia/fna/us/en/news/2021/09/27/ford-to-lead-americas-shift-to-electric-vehicles.html) (JV) with South Korean battery maker SK On. The goal of the JV, called BlueOval SK, is to build three battery plants in the United States. Two are located in Kentucky; the third factory in Tennessee will be co-located with a Ford assembly plant, which will produce the automaker’s second-generation electric truck, code named Project T3.
+
+Ford and SK On secured a $9.2 billion loan from the U.S. Department of Energy to help finance the construction of the three battery factories in Kentucky and Tennessee. While one of the Kentucky plants is scheduled to begin production in 2025, the second plant’s production has been paused as Ford keeps an eye on consumer demand for EVs.
+
+Ford is also[building a lithium-iron-phosphate plant](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/02/13/ford-taps-michigan-for-new-lfp-battery-plant--new-battery-chemis.html) in Michigan. Chinese battery maker CATL is licensing its technology to Ford as a service provider on a contractual basis. That might change in the future, though, as Ford has now attracted the ire of House Republicans who are[probing the automaker’s relationship](https://techcrunch.com/2023/07/21/congress-probes-ford-battery-deal-china-catl/) with the Chinese battery company. [In November 2023,](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/11/21/blue-oval-battery-park-michigan-update.html) Ford made the decision to scale back investment in its Michigan plant from $3.5 billion down to $2 billion amid slower-than-expected demand for EVs, which means a 43% drop in production capacity and reduced expected employment.
+
+![Image 3](https://techcrunch.com/wp-content/uploads/2024/07/ford-e1721420671918.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### General Motors
+
+General Motors aims to have three total battery plants in the U.S. through its joint venture with LG Energy Solutions, which was named Ultium Cells until October 2024. That joint venture secured in December 2022 a $2.5 billion loan from the government to help fund its battery factory projects.
+
+Not only has GM dropped the brand name Ultium, but it also plans to adopt lithium iron phosphate (LFP) battery technology to reduce the cost of its EVs by “up to $6,000,” GM’s VP of batteries Kurt Kelty said at the automaker’s investor day. The Ultium platform uses the more common nickel manganese cobalt recipe.
+
+GM also said during its October 2024 investor day that it would build a [new battery cell development center](https://www.theverge.com/2024/10/8/24265416/gm-ultium-ev-battery-platform-discontinued-lfp) in Warren, Michigan, with start of production targeted for early 2027.
+
+LG isn’t the only battery maker GM is working with. The automaker in April 2023 announced a[joint venture with Samsung SDI](https://techcrunch.com/2023/04/25/hyundai-gm-partner-with-korean-battery-makers-to-build-us-plants/) to build a[new battery plant in the United States](https://techcrunch.com/2023/06/13/gm-and-partner-samsung-sdi-pick-indiana-for-3b-battery-factory/).
+
+Aside from volume production, GM has also[partnered with startup SolidEnergy Systems](https://techcrunch.com/2021/03/11/gm-partners-with-startup-solidenergy-systems-to-pack-more-energy-in-its-batteries/) in 2021 to build a prototyping facility in Woburn, Massachusetts. The goal is to build a high-capacity, pre-production lithium-ion battery.
+
+GM is working on taking control of the battery materials supply chain as well. In March 2022, the company partnered with[South Korea’s Posco Chemical](https://www.reuters.com/business/autos-transportation/gm-build-new-battery-materials-plant-canada-2022-03-07/) to build a $400 million battery materials facility in Canada. The plant will produce cathode active materials. GM announced in February 2024 a deal with LG Chem that would see the automaker investing $19 billion over the next decade to source critical materials from LG Chem’s Tennessee plant.
+
+![Image 4](https://techcrunch.com/wp-content/uploads/2024/07/GM-e1721421155970.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Honda
+
+In August 2022, Honda announced its[joint venture](https://techcrunch.com/2022/08/29/honda-and-lg-energy-plan-to-build-a-4-4-billion-lithium-ion-plant-in-the-us/) with South Korea’s LG Energy Solutions to supply the North American market with “pouch type” battery cells. The facility in Ohio will produce both cells and modules.
+
+The automaker has also made strides to secure battery resource recycling channels and has agreements with businesses, including Ascend Elements, Cirba Solutions and Posco Holdings.
+
+Honda’s engine plant in Anna, Ohio, is also in the process of being retooled to add production of casing for battery modules that will power Honda and Acura EVs made in Ohio.
+
+![Image 5](https://techcrunch.com/wp-content/uploads/2024/07/honda-e1721421208167.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Hyundai
+
+In April 2023,[Hyundai and SK On approved plans](https://techcrunch.com/2023/04/25/hyundai-gm-partner-with-korean-battery-makers-to-build-us-plants/) to set up a joint venture to build a $5 billion battery plant in Bartow County, Georgia. Within a few months, Hyundai and LG Energy Solution formed [another JV](https://www.hyundainews.com/en-us/releases/3920) to build a battery cell factory near Savannah, Georgia, that will support the production of 300,000 units of EVs annually once the plant reaches mass production. The automaker said Hyundai Mobis, Hyundai’s parts and service arm, will assemble battery packs using cells from the plant.
+
+Hyundai Mobis in 2022 also announced plans to build an [EV battery module plant](https://www.madeinalabama.com/2022/10/hyundai-mobis-plans-alabama-ev-battery-module-plant-creating-400-jobs/) in Alabama that will be able to supply more than 200,000 EV batteries annually to its parent company once the plant reaches full capacity.
+
+![Image 6](https://techcrunch.com/wp-content/uploads/2024/07/Hyundai-e1721421277722.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Mercedes-Benz
+
+Mercedes-Benz opened a battery plant at its existing manufacturing facility in Alabama in 2022. That summer, the plant also became the production site for the automaker’s fully electric EQS SUV. The Alabama facility is also assembling the EQE SUV and the Maybach EQS SUV, according to a spokesperson from the company.
+
+Mercedes is also working with[Sila](https://techcrunch.com/2021/09/08/sila-nanotechnologiess-first-next-gen-battery-will-launch-in-whoop-wearables/), a next-gen battery materials company, to incorporate Sila’s battery chemistry into batteries as an option for buyers of the upcoming G-Class. Sila replaces the graphite in a battery cell with silicon and is in the process of scaling up at its new[Washington state facility](https://techcrunch.com/2022/05/03/silas-new-factory-to-produce-next-gen-ev-battery-tech-on-u-s-soil/). The companies are targeting mid-decade for a range-extended version of the G-class.
+
+![Image 7](https://techcrunch.com/wp-content/uploads/2024/07/mercedes-e1721421330447.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Stellantis
+
+Stellantis and Samsung SDI commenced construction on their joint-venture EV battery facility in Indiana in March 2023. The factory will produce both lithium-ion cells and modules.
+
+The company announced in July 2023 it would[build a second battery factory](https://apnews.com/article/electric-vehicle-battery-factory-stellantis-kokomo-413f462aa41fdfa60c8bf3ee78508c51) with Samsung, which will open in early 2027. In October,[Stellantis shared more details](https://techcrunch.com/2023/10/11/stellantis-samsung-sdi-to-build-second-3-2b-ev-battery-factory-in-indiana/).
+
+Stellantis, which includes brands Alfa Romeo, Chrysler, Jeep and Ram, also announced a joint venture with LG Energy Solution in 2021, called NextStar Energy, to build a North American factory with an annual capacity of 40 GWh. In March 2022, the two companies announced a binding agreement to invest (CAD $5 billion) $3.7 billion to produce cells and modules at a manufacturing plant in[Windsor, Ontario, Canada](https://www.reuters.com/business/autos-transportation/stellantis-says-resume-battery-plant-construction-canada-after-reaching-deal-2023-07-05/).
+
+![Image 8](https://techcrunch.com/wp-content/uploads/2024/07/Stellantis-e1721421382640.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Tesla
+
+Since beginning production at Gigafactory Nevada in 2017, Tesla has produced more than 7.3 billion battery cells and 1.5 million battery packs, which provide about 39 GWh capacity annually, according to Panasonic.
+
+[Tesla in January](https://www.tesla.com/en_nz/blog/continuing-our-investment-nevada) 2023 announced plans to invest billions more into the Nevada factory to include a new 4680 cell factory with capacity to produce enough batteries for 1.5 million light-duty vehicles annually. The 4680 cells, which were designed by Tesla and revealed at Battery Day 2020, are meant to reduce battery cost by over 50%. Tesla has been trying to get the cells to volume production over the last few years but has run into roadblocks. A recent report from [The Information](https://www.theinformation.com/articles/teslas-future-was-all-about-the-battery-until-it-wasnt) shows that Elon Musk may have to rely on outside suppliers for batteries soon if the 4680 team doesn’t make headway.
+
+At the start of 2023, Tesla also laid out plans to[expand its existing Gigafactory Austin](https://techcrunch.com/2023/01/11/tesla-plans-770m-expansion-at-texas-factory/) to include battery cell testing and the manufacture of cathode and drive units, but hasn’t shared more details on those plans.
+
+In May 2023, [Tesla broke ground](https://techcrunch.com/2023/05/08/teslas-new-texas-lithium-refinery-to-support-1m-electric-vehicles-by-2025/#:~:text=Tesla%20officially%20broke%20ground%20Monday,of%20lithium%20in%20North%20America.) on a Texas lithium refinery, making it one of the only U.S. automakers to refine its own lithium. The automaker said it would spend $375 million on the Corpus Christi factory that will have a capacity of 50 GWh. Tesla included an update in its [Q4 2024 earnings report](https://techcrunch.com/storyline/tesla-earnings-live-updates-elon-new-evs-ai-and-more/page/2/) on the refinery, saying that it plans to bring the plant online in 2025 before scaling production.
+
+![Image 9](https://techcrunch.com/wp-content/uploads/2024/07/Tesla-e1721421434206.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Toyota
+
+Toyota’s planned[battery plant in North Carolina](https://techcrunch.com/2023/05/31/toyota-adds-2-1b-to-its-battery-factory-expansion-plans/), initially announced in 2021, will produce both cells and modules, according to the company. In late October 2023, Toyota announced that it would[invest billions more](https://techcrunch.com/2023/10/31/toyota-to-invest-another-8b-into-north-carolina-ev-battery-factory/) into the factory. When it comes online, it’ll have 10 production lines to support both hybrid and EVs.
+
+In February 2025, [Toyota announced](https://global.toyota/en/newsroom/corporate/42193203.html) that its North Carolina plant is ready to begin production and will start shipping batteries for North American electrified vehicles in April.
+
+Toyota has also enlisted the help of South Korean battery maker LG Energy Solution, which will exclusively build EV batteries for the Japanese automaker out of its Michigan plant (more on that below.)
+
+The Japanese automaker is also building a battery lab at its North American research and development headquarters in Michigan, where it can develop and evaluate the quality of its EV batteries. The $48 million lab is expected to begin operations in 2025, and it will support the company’s manufacturing at factories in North Carolina and Kentucky.
+
+![Image 10](https://techcrunch.com/wp-content/uploads/2024/07/Toyota-e1721421485662.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Volkswagen
+
+In July 2022, Volkswagen set up a separate battery company, PowerCo SE, to build batteries for its upcoming EVs. Since its launch, the company has decided on the location of three cell factories: Two in Europe (Salzgitter, Germany, and Valencia, Spain) and one in North America (St. Thomas, Canada). PowerCo expects to generate an annual revenue of over 20 billion euros by 2030.
+
+While VW’s battery factory is in Canada and not technically in the U.S., it should still be eligible to receive Inflation Reduction Act incentives.
+
+![Image 11](https://techcrunch.com/wp-content/uploads/2024/07/Volkswagen-e1721421544719.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Volvo
+
+Volvo has a[battery assembly factory](https://europe.autonews.com/automakers/volvo-building-us-battery-assembly-plant) in Charleston, South Carolina, but the automaker does not manufacture batteries or battery components there. Volvo would not confirm any other plans it has for battery production in North America.
+
+## Battery manufacturers building in North America
+
+### AESC
+
+AESC (formerly Envision AESC) is a Japanese battery technology company that has promised to build three U.S. facilities before the end of the decade. The company’s Tennessee plant has been in operation for some time. AESC broke ground at its Kentucky and South Carolina plants in August 2022 and June 2023, respectively. In [March 2024](https://governor.sc.gov/news/2024-03/aesc-grows-florence-county-operations-second-expansion-4-months), AESC said it would expand its South Carolina operations, bringing total investment in the project up to $3.12 billion. But in February 2025, [AESC paused those expansion plans](https://spectrumlocalnews.com/sc/south-carolina/news/2025/02/05/south-carolina-news-aesc-loses-incentives) after the state pulled $100 million in bonds to support the project. The company said its existing plant will have enough capacity to serve BMW.
+
+![Image 12](https://techcrunch.com/wp-content/uploads/2024/07/AESC-e1721421660955.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Gotion
+
+Gotion Inc., which is headquartered in Silicon Valley and owned by Chinese company Gotion High-Tech, first announced its intent to build a battery factory in Michigan[in October 2022](https://techcrunch.com/2022/10/06/michigan-is-becoming-the-center-of-us-battery-manufacturing/). The factory, which secured $175 million in state funds in April 2023, aimed to build both cathode and anodes that could be used for both EVs and solar generators, according to a spokesperson from the company. However, Gotion has faced pushback from locals. The township’s board voted to reverse a previously approved plan to extend the city’s water supply to the location of the factory. In March, [Gotion filed a lawsuit](https://www.freep.com/story/news/local/michigan/2024/03/19/gotion-sues-green-charter-township-over-2-4-ev-battery-plant/73018994007/) against the town, which is ongoing.
+
+While the Michigan factory is clearly on hold, Gotion has another one in the works. In September 2023, Gotion also announced plans to set up a second battery manufacturing plant in Illinois. The company is on the receiving end of state incentives valued at $536 million and expects to receive tax benefits totaling $213 million over 30 years, as long as Gotion invests a minimum of $1.9 billion and the creation of thousands of well-paid jobs.
+
+![Image 13](https://techcrunch.com/wp-content/uploads/2024/07/Gotion-e1721421714544.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Kore Power
+
+Battery cell and module developer [Kore Power announced in March](https://korepower.com/media/koreplex-site-plan-receives-key-approval-in-city-of-buckeye-arizona) 2024 that it had received approval to build a battery manufacturing factory in Buckeye, Arizona. But in February 2025,[the company scrapped those plans](https://www.canarymedia.com/articles/energy-storage/kore-power-has-a-new-plan-after-canceling-1-2b-battery-plant-in-arizona). Now, Kore’s plans are to sell its construction-ready property in Buckeye and instead search for an existing factory to retrofit into a battery plant.
+
+Kore Power previously told TechCrunch that it would produce batteries for energy storage systems and e-mobility products, including cars, trucks, buses, boats and trains. It intends to support OEMs by manufacturing 30D-compliant batteries, so Kore is working closely with domestic partners to line up critical materials suppliers onshore.
+
+![Image 14](https://techcrunch.com/wp-content/uploads/2024/07/Kore-Power-e1721421760915.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### LG Energy Solution
+
+South Korea’s[LG Energy Solution](https://techcrunch.com/2022/03/23/lg-energy-increases-battery-production-in-the-u-s-with-1-4b-investment/) supplies EV batteries to automakers like Tesla, Lucid Motors, Toyota and Proterra. The battery maker has joint ventures to build battery factories with General Motors, Honda, Hyundai and Stellantis.
+
+In early 2023, LG said it would quintuple the capacity of its existing lithium-ion cell plant in Michigan, which was built in 2010, as part of a [deal with Toyota](https://www.michiganbusiness.org/news/2023/10/michigan-wins-$3-billion-investment-powering-new-ev-production-by-lges-toyota/) LG’s Holland factory makes large polymer battery cells, or pouch type cells, and packs for EVs. The expanded plant will produce new long cell design batteries, which LG says should add more range, better storage, and a more simplified pack structure.
+
+The battery maker also said it would[quadruple its planned investment](https://www.nytimes.com/2023/03/24/business/energy-environment/lg-battery-factory-arizona.html) in a new factory in Arizona to $5.5 billion, a large portion of which will be dedicated to EV battery production. The complex will have[two manufacturing facilities](https://news.lgensol.com/company-news/press-releases/1613/) — one dedicated to cylindrical batteries for EVs and another for lithium iron phosphate pouch-type batteries for energy storage systems.
+
+In August 2023, [LG announced a building spree in North America](https://www.autonews.com/mobility-report/lg-energy-solution-expand-north-america-ev-battery-manufacturing), with plans to spend up to $17 billion through 2025 on constructing a total of eight factories (two of which are already operational) with more than 300 GWh capacity. LG has not yet shared details on each plant.
+
+LG’s parent company, LG Chem, separately [broke ground](https://clarksvillenow.com/local/lg-chem-breaks-ground-on-3-2-billion-ev-battery-materials-plant-in-clarksville/) on a Tennessee plant that will produce cathode material in December 2023. LG plans to invest $3.2 billion in that plant with the goal of producing 60,000 tons of cathode material at peak production. GM has signed on as a customer, pledging $19 billion.
+
+![Image 15](https://techcrunch.com/wp-content/uploads/2024/07/LGES-e1721421821306.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Northvolt
+
+Northvolt, a Swedish producer of lithium-ion batteries, announced in late September 2023 plans to open its first gigafactory in North America. The company had reportedly been evaluating between North America or Germany for its next gigafactory, and the former won out due to the incentives in the IRA.Northvolt’s planned factory will be in Canada.
+
+In November 2024, [Northvolt filed for bankruptcy](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/), but not before [selling its U.S.-based manufacturing assets](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/) to Lyten, a Silicon Valley-based battery startup.
+
+The company said at the time that its [Quebec battery plant will proceed](https://financialpost.com/commodities/energy/electric-vehicles/northvolt-says-quebec-battery-plant-will-proceed-despite-bankruptcy) despite its bankruptcy filing in the U.S.
+
+The project is expected to cost just over $7 billion, with Northvolt bringing in $3.2 billion and local and federal governments contributing around $4.2 billion. The expansion is off the back of a[$1.2 billion raise](https://techcrunch.com/2023/08/22/swedish-ev-battery-maker-raises-1-2b-to-expand-to-north-america/), backed by BlackRock.
+
+Northvolt told TechCrunch it has an “offtake agreement with an anchor customer,” meaning a buyer for its cells, but wouldn’t disclose the name of the company.
+
+The factory will also feature Revolt, Northvolt’s battery recycling program, which will have a capacity of 15 GWh. Northvolt told TechCrunch it hopes to recycle half of the raw materials needed for cell production by 2030.
+
+![Image 16](https://techcrunch.com/wp-content/uploads/2024/07/Northvolt-e1721421881191.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Our Next Energy
+
+Battery startup Our Next Energy (ONE) announced plans in October 2022 to build a gigafactory in Michigan devoted to lithium-iron-phosphate cells, AKA LFP batteries. The facility, which is supported by a $200 million grant from the state of Michigan, will include raw material refinement, cathode materials production, and cell and battery manufacturing.
+
+To that end, the company in February 2023[raised a $300 million Series B](https://techcrunch.com/2023/02/01/battery-darling-our-next-energy-lands-massive-300m-series-b-to-build-gigafactory/) to help get it to production.
+
+![Image 17](https://techcrunch.com/wp-content/uploads/2024/07/Our-Next-Energy-e1721421937968.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### Panasonic
+
+Panasonic said in July 2022 that it plans to build the world’s[largest EV battery plant](https://techcrunch.com/2022/07/13/panasonic-to-build-4-billion-ev-battery-plant-in-kansas/), a $4 billion factory in Kansas that will manufacture and supply lithium-ion batteries to EV makers. The facility in De Soto will be Panasonic’s second EV battery plant in the U.S., after the Panasonic Energy of North America (PENA) facility in Sparks, Nevada, which operates inside Tesla’s Nevada Gigafactory and supplies the EV maker with batteries.
+
+Panasonic said in June 2023 that it plans to expand production at PENA by 10% within three years. Around the same time, the Japanese company said it would build[at least two new factories](https://www.reuters.com/business/panasonic-plans-new-battery-production-capacity-north-america-by-2030-2023-05-18/) for the production of Tesla 4680 battery cells in North America by 2030. However, in January 2024, Panasonic’s CEO Yuki Kusumi said the [battery business will focus on boosting productivity](https://www.reuters.com/technology/panasonic-puts-productivity-boost-ahead-new-ev-plant-us-2024-01-21/) over building another battery factory.
+
+![Image 18](https://techcrunch.com/wp-content/uploads/2024/07/Panasonic-e1721422025817.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan
+
+### SK Battery America
+
+South Korean battery manufacturer SK On has created joint ventures to develop batteries with Ford and Hyundai. The company’s U.S. subsidiary, SK Battery America, has its own plans.
+
+SK Battery America has invested $2.6 billion into two manufacturing plants in Jackson County, Georgia, and reached mass production in early 2022.
+
+![Image 19](https://techcrunch.com/wp-content/uploads/2024/07/SK-Battery-America-e1721422059752.png?w=680)
+
+**Image Credits:**TechCrunch | Rebecca Bellan

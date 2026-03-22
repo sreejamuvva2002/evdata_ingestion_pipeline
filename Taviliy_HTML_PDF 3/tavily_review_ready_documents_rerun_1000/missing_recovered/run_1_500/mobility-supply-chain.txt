@@ -1,0 +1,66 @@
+Title: Electric Mobility Innovation Alliance (EMIA): Supply Chain
+
+URL Source: http://georgia.org/mobility-supply-chain
+
+Markdown Content:
+![Image 1: EMIA hero image](https://georgia.org/sites/default/files/styles/landscape_hero_xxxl/public/2021-05/hero_image_2200x550.png?itok=PEONlCXE)
+
+*   [EMIA Home](https://georgia.org/EMIA)
+*   [Infrastructure](https://georgia.org/mobility-infrastructure)
+*   [Innovation](https://georgia.org/mobility-innovation)
+*   [Supply Chain](https://georgia.org/mobility-supply-chain)
+*   [Workforce](https://georgia.org/mobility-workforce)
+*   [Policy and Initiatives](https://georgia.org/mobility-policy-initiatives)
+*   [EMIA News](https://georgia.org/emia-news)
+
+As the state of Georgia plans on growing the electric mobility supply chain, it is EMIA’s goal to support these efforts through precise policy suggestions and initiatives that help attract jobs and investments, and provide guidance for the state’s existing industry. The electrification of the mobility sector is strongly connected to new and emerging technologies, especially in regard to battery technology. This partnership will work with all relevant stakeholders to identify the needs of the industry and grow the entire supply chain in Georgia – from raw materials to final application. Additionally, EMIA will engage the state’s existing industry to ensure that they have access to required resources as the industry undergoes this transition.
+
+![Image 2: placement photo](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-03/thumbnail%20%281%29.jpg?itok=nHMTeUrv)
+
+## Automotive Manufacturing Since 1909
+
+Georgia has been an established automotive manufacturing center since 1909, when the first automobile was assembled in the state. Throughout the past hundred years, leading automotive companies have consistently chosen Georgia as their home for manufacturing, assembly, headquarters, and innovation centers. To learn more about Georgia’s existing automotive industry, please visit: [www.georgia.org/industries/automotive](http://www.georgia.org/industries/automotive).
+
+## Company Spotlights
+
+![Image 3: manufacturing employee  in korea holding up sk innovation ev battery](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-05/SK.jpg?itok=gNknaGDu)
+
+## SK Innovation
+
+Established as South Korea’s first oil refining company in 1962, SK innovation engages in diverse areas of business, including exploration and production (E&P), batteries, and information and electronics materials. Since SK innovation’s initial announcement to build a lithium-ion battery manufacturing facility in Jackson County, Georgia, in January 2019, the company has committed to building two facilities and a total investment of $2.6bn, creating 2,600 jobs.
+
+When completed, this factory will be the nation’s largest non-captive EV battery plant. It’s initial yearly output will supply 22 GWh of EV battery capacity, which is enough battery capacity for 330,000 electric cars and with its expansion plans, the company is set to produce 50 GWh annually by 2025.
+
+![Image 4: Blue Bird Bus](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-03/blue-bird-1607960251.jpg?itok=dftgrdGR)
+
+## Blue Bird
+
+School bus manufacturer Blue Bird, which has provided America’s children with safe transportation since 1932, introduced their Georgia-made all-electric buses in 2018. The company reported in September 2020 that its electric bus sales grew by more than 250% in the last year alone. Blue Bird is now ramping up production capacity to continue to meet accelerating demand.
+
+![Image 5: chemours crane digging through dirt](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-05/maxresdefault.jpg?itok=IeYtnCR2)
+
+## Chemours (Southern Ionics)
+
+Chemours is one of the biggest U.S. miners of natural monazite ore through the activities of its subsidiary Southern Ionics Minerals in Southeast Georgia. Natural monazite sand ore is one of the highest-grade and highest-value rare earth minerals in the world. The minerals mined in Jesup, Georgia, are being further processed into rare earth concentrate and are an important component of permanent rare earth magnets that are used in the electric motors of EVs, making Chemours a crucial part of the United States’ supply of rare earth minerals.
+
+Chemours’ 200-year-old legacy and world-class product portfolio help the company supply and develop innovative solutions that are better, safer, more reliable and more sustainable.
+
+![Image 6: TEKLAS georgia plant](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-07/DJI_0018.jpg?itok=ETvJhaGj)
+
+## TEKLAS
+
+Founded in Turkey in 1971, TEKLAS is an EV parts supplier that designs, develops, and manufactures fluid circulation systems for cooling and heating applications, which includes hoses and pipes from rubber, plastic, and metal for the global automotive industry. TEKLAS uses highly innovative and automated manufacturing processes using advanced water molding technology and their customers include General Motors, Volkswagen and Daimler Mercedes.
+
+![Image 7: Heliox Bus Charging](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-07/Heliox_eBus_Charging.jpg?itok=p5hzphg1)
+
+## Heliox
+
+In May 2021, Heliox, a global leader in producing e-mobility charging systems, announced they will establish their North American headquarters along with a campus for research and development in Atlanta. The company’s Georgia expansion is creating more than 70 clean-energy jobs in the region within the next year. Headquartered in the Netherlands, Heliox is a market leader in fast-charging systems for electric vehicles – from public transport and e-trucks to passenger vehicles, marine, mining, and port equipment vehicles. The company’s chargers enable operators to improve their performance while reducing their environmental impact. To date, Heliox has installed more than 1,600 high-powered and fast-charging points worldwide and has implemented one of the world’s largest e-bus projects.
+
+![Image 8: Parkent bike at a e-bike charging station](https://georgia.org/sites/default/files/styles/coi_featured_image/public/2021-09/20210626_164106.jpg?itok=VuAYnUal)
+
+## Parkent
+
+Parkent, offers the world’s first universal secure e-bike charging stations. The stations work with every e-bike and bike charger currently on the market, which includes adaptive e-bikes for citizens with special needs, pedicabs and even cargo bikes.
+
+Parkent is a Georgia grown business. In 2019, the startup graduated from The FARM | Boomtown Atlanta accelerator program Cohort 3. Swift Atlanta in Suwanee, GA manufactures the charging stations. ORB Design & Manufacturing in Woodstock, GA houses the stations in development for assembly. In 2017, The Flashpoint at Georgia Tech accelerator program helped develop the business for 6 months. PCI Procoaters in Conyers, GA manufactured the first commercial grade station. Also the Georgia Manufacturing Extension Partnership (GaMEP) program who through government subsidies helped to commercially design the product. Two groups of 5 engineers from the Georgia Tech Capstone Design program helped bring the owner’s proof of concept prototype into a commercial ready product. Other contributing groups along the way have been the Advanced Technology Development Center (ATDC), The Alpharetta Innovation Center, and Georgia Bikes.
