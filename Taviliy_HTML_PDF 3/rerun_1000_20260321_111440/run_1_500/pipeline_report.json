@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-03-21T12:46:45",
+  "output_dir": "/home/sm11926/Downloads/Tavily_ev automation/Taviliy_HTML_PDF 3/rerun_1000_20260321_111440/run_1_500",
+  "stage1_all_candidates": 6363,
+  "stage1_dedup_candidates": 1596,
+  "stage2_scored_pool_count": 1596,
+  "stage2_selected_by_metadata_count": 798,
+  "stage2_document_pool_count": 1596,
+  "stage3_lightweight_card_count": 1596,
+  "stage6_enriched_card_count": 25,
+  "stage7_shortlist_count": 25,
+  "stage7_llm_judged_count": 0,
+  "stage8_credible_count": 1034,
+  "final_keep_count": 0,
+  "final_review_count": 129,
+  "final_discard_count": 1467,
+  "thresholds": {
+    "metadata_threshold": 25.0,
+    "heuristic_threshold": 45.0,
+    "embedding_threshold": 65.0,
+    "hybrid_threshold": 65.0,
+    "direct_usecase_threshold": 0.7,
+    "credibility_threshold": 60.0,
+    "metadata_target_ratio": 0.5,
+    "final_target_ratio": 0.0,
+    "diversity_max_share": 0.5,
+    "llm_provider": "ollama",
+    "llm_model": "qwen2.5:7b"
+  },
+  "grounding_files": {
+    "xlsx": "/home/sm11926/Downloads/Tavily_ev automation/Taviliy_HTML_PDF 3/GA_Automotive Landscape_All_Companies.xlsx",
+    "geojson": "Counties_Georgia.geojson",
+    "docx": "GNEM Supply Chain.docx"
+  }
+}
